@@ -1,21 +1,21 @@
-# Multivariate Statistical Analysis
-Multivariate Statistical Analysis Course MSc Statistical Computing CIMAT Monterrey 
+# Mathematical Optimization
+Mathematical Optimization Course MSc Statistical Computing CIMAT Monterrey 
 
 ***
 
-This course provides a comprehensive exploration of the theoretical foundations of multivariate statistics, from fundamental concepts like multivariate data distributions and basic descriptive statistics to more advanced techniques such as linear discriminant analysis, canonical correlation, and factor analysis.
+This course provides the fundamentals of mathematical optimization methods. Several topics are covered including nonlinear optimization, linear programming, the simplex algorithm, heuristics, the geometry of feasible regions and optimal solutions, and duality theory.
 
-The course incorporates problem-solving exercises and hands-on learning experiences using the R programming language. In this way, learners will gain both theoretical knowledge and practical skills.
+The main objective of this course is to give students a comprehensive understanding of the mathematical structures underlying various optimization models and to develop proficiency in the application of different algorithms and solution techniques.
 
 **Course**\
-Multivariate Statistical Analysis
+Mathematical Optimization
 
 **Instructors**\
-Dr. Edgar Jiménez Peña\
-_Research Professor at Mathematics Research Center (CIMAT)_
+Dr. Alejandro Rosales Pérez\
+_MSc Programme Coordinator & Titular Research Professor Class A at Mathematics Research Center (CIMAT)_
 
-Dr. Rodrigo Macías Páez\
-_Titular Research Professor Class A at Mathematics Research Center (CIMAT)_
+Dra. Martha Selene Casas Ramírez\
+_Titular Technician SNI Level I at Mathematics Research Center (CIMAT)_
 
 _January 2024_
 
