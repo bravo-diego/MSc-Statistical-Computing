@@ -10,7 +10,7 @@ The course also covers advanced topics, including model selection and regulariza
 **Course**\
 Statistical Computing
 
-**Instructor**\
+**Instructors**\
 Dr. Rodrigo Macías Páez\
 _Titular Research Professor Class A at Mathematics Research Center (CIMAT)_
 
