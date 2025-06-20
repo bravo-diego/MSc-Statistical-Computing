@@ -1,11 +1,11 @@
-# Consultancy
+# Consultancy Project
 Consultancy Course MSc Statistical Computing CIMAT Monterrey 
+
+***
 
 ## Bayesian Network Modeling for Water Disinfection via Hydrodynamic Cavitation
 
 ![alt text](https://www.ingenieria.unam.mx/dimei/images/logos/logo_dimeies.png)
-
-***
 
 ### About
 
@@ -26,7 +26,7 @@ _Titular Research Professor Class C at Mathematics Research Center (CIMAT)_
 Bayesian Network Modeling for Water Disinfection via Hydrodynamic Cavitation
 
 **Stakeholders**\
-Dr. Francisco Antonio Godínez Rojano 
+Dr. Francisco Antonio Godínez Rojano\
 _Associate Research Class C at Mechanical and Industrial Engineering Division UNAM_
 
 _Jan 2025_
